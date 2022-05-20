@@ -1,8 +1,0 @@
-You can think of this as raising some number to a certain power (210 = 1024), and then taking the remainder of the division by some other number (1024 mod 17 = 4). In Python there's a built-in operator for performing this operation: pow(base, exponent, modulus)
-
-
-
-x = pow(101, 17, 22663)
-
-print(x)
-
